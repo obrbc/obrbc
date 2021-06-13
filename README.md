@@ -1,5 +1,3 @@
- 
-
 ![OBIM-Binario_web](https://user-images.githubusercontent.com/42247722/121815354-5e959280-cc76-11eb-86d1-b1363a4d8872.gif)
  
 
@@ -26,7 +24,11 @@ Actualmente soy consultor BIM pero mi auténtica pasión es:
 Ese ha sido mi lema desde que terminé mi primera formación universitaria en Arquitectura técnica en la E.U.P.Burgos, aunque luego continué..
 >  **Arquitectura de interiores:** Si, el diseño está bien pero aún quería probar algo más.
 >  
->  **Certified Passive House Tradesperson:** Ya sé como quiero que sea mi casa para terner confort y con gastos mínimos.
+>  **Certified Passive House Tradesperson:** Ya sé como quiero que sea mi casa para tener confort y con gastos mínimos.
+>  
+  >  **BIM Manager:** Ésto se empezaba a acercar a lo que me gustaba. Lo de dibujar en AutoCad y que tuvieras que buscar en _TODOS_ los planos para modificar la ventana  que ha desplazado el arquitecto, se había terminado.
+  >  
+  >  **Programación visual con Dynamo y Revit API con Python:** 
 
 Llevaba tiempo salseando con la visualización de datos pero me introduje en los datos a principios de éste año 2021.
 
