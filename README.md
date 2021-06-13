@@ -1,5 +1,6 @@
 
 
+
   
 
 ![OBIM-Binario_web](https://user-images.githubusercontent.com/42247722/121815354-5e959280-cc76-11eb-86d1-b1363a4d8872.gif)
@@ -38,8 +39,7 @@ Llevaba tiempo salseando con la visualización de datos pero me introduje en los
   
 
 ![OBIM-Binario_web_QR](https://user-images.githubusercontent.com/42247722/121815786-6f470800-cc78-11eb-9874-58e7edfd8836.gif)
+ 
 
-  
 
->  **ProTip:** You can disable any **Markdown extension** in the **File properties** dial
 >  [^1]: Aunque soy aparejador de formación!
